@@ -34,7 +34,15 @@ The dataset contains retail transaction details, including transaction ID, sale 
 10. Calculate the number of orders in each shift: Morning, Afternoon, and Evening.
 
 ## Project Findings
-Add findings from the actual query results here after completing the analysis.
+- Analyzed 1,997 retail transactions using PostgreSQL.
+- Identified 155 unique customers in the dataset.
+- Total sales revenue was 911,720.00.
+- The average sale per transaction was 456.54.
+- Analyzed monthly and yearly sales trends.
+- Compared sales performance across product categories.
+- Identified the top 5 customers by total sales.
+- Analyzed customer purchasing behavior by gender and age.
+- Examined transaction counts across morning, afternoon, and evening shifts.
 
 ## Author
 SQL Portfolio Project
