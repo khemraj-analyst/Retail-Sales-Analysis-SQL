@@ -45,4 +45,6 @@ The dataset contains retail transaction details, including transaction ID, sale 
 - Examined transaction counts across morning, afternoon, and evening shifts.
 
 ## Author
-SQL Portfolio Project
+Khemraj
+
+Aspiring Data Analyst | PostgreSQL | SQL
